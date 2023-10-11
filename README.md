@@ -1,6 +1,5 @@
 # TGview
-```
-git clone https://github.com/DRUNK01/TGview
-cd TGview
-python TGview.py
-```
+Script for sending post views on telegram
+ Using Threading method for proxies
+
+ Using mix protocols (http + socks4 + socks5)
