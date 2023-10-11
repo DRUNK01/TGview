@@ -21,4 +21,5 @@ Hit enter & enjoy .
 
 <p> <font color = red> <br>
 Total Visitors </p>
-![Visitor Count](https://profile-counter.glitch.me/DRUNK01/count.svg)
+
+ ![Visitor Count](https://profile-counter.glitch.me/DRUNK01/count.svg)
