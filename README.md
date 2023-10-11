@@ -10,6 +10,7 @@ git clone https://github.com/DRUNK01/TGview
 ```
 running
 ```
+cd TGview
 python Tgview.py <your telegram post link> http <amount>
 ```
 example
