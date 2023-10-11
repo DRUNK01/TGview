@@ -19,7 +19,5 @@ python Tgview.py https://t.me/DRUNK0111/2 http 1000
 ```
 Hit enter & enjoy .
 
-<p> <font color = red> <br>
-Total Visitors </p>
-
+#Visitors
  ![Visitor Count](https://profile-counter.glitch.me/DRUNK01/count.svg)
