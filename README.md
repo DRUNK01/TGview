@@ -4,7 +4,6 @@ Script for sending post views on telegram
 
  Using mix protocols (http + socks4 + socks5)
 
-cloning
 ```
 git clone https://github.com/DRUNK01/TGview
 ```
