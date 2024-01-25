@@ -6,11 +6,11 @@ Script for sending post views on telegram
 
 ```
 git clone https://github.com/DRUNK01/TGview
+cd TGview
 pip3 install -r requirements.txt
 ```
 running
 ```
-cd TGview
 python Tgview.py <your telegram post link> http <amount>
 ```
 example
