@@ -6,6 +6,7 @@ Script for sending post views on telegram
 
 ```
 git clone https://github.com/DRUNK01/TGview
+pip3 install -r requirements.txt
 ```
 running
 ```
